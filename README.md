@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rekteks.
-- 👀 I’m interested in IAM architecture. 
+- 👀 I’m interested in IAM architecture. New here. New to this world. 
 - 🌱 I’m currently learning deployment solutions and buidling websites, cybersecurity. 
 - 💞️ I’m looking to collaborate on IT solutions for macOS, iOS.  
 - 📫 How to reach me kenshotek@gmail.com 
